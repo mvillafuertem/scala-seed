@@ -38,7 +38,7 @@ object Dependencies {
   }
 
   private object Version {
-    val scalaTest = "3.2.8"
+    val scalaTest = "3.2.9"
     val zio = "1.0.4-2"
   }
 
