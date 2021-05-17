@@ -21,7 +21,7 @@ object Settings {
   )
 
   lazy val value: Seq[Def.Setting[_]] = Seq(
-    scalaVersion := "2.13.5",
+    scalaVersion := "2.13.6",
     scalacOptions := {
       val default = Seq(
         "-deprecation",
